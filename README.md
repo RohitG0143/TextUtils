@@ -94,4 +94,4 @@ Contributions to TextUtils are welcome! If you find any issues or want to enhanc
 
 ## License
 
-© RohitG0143. All rights reserved.
+MIT License-© RohitG0143. All rights reserved.
