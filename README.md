@@ -94,4 +94,4 @@ Contributions to TextUtils are welcome! If you find any issues or want to enhanc
 
 ## License
 
-MIT License-© 2023 RohitG0143 License. All rights reserved.
+MIT License - Copyright (c) 2021 RohitG0143 License
