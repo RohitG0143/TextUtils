@@ -29,7 +29,7 @@ export default function TextForm(props) {
   };
 
   const handleExtraSpaces = () => {
-    let newText = text.split(/[ ]+/g); //this code is regex
+    let newText = text.split(/[ ]+/g); 
     setText(newText.join(" "));
     props.showAlert("Extra spaces removed!", "success");
   };
